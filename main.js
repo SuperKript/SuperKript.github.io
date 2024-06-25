@@ -1,5 +1,5 @@
 
-import kaboom from "./superkript.github.io/libs/kaboom.mjs"
+import kaboom from "./libs/kaboom.mjs"
 
 import { Player } from "./superkript.github.io/entities/Player.js"
 import { Mushroom } from "./superkript.github.io/entities/Mushroom.js"
