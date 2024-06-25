@@ -20,7 +20,7 @@ export const load = {
         loadSprite("star-background", "./assets/EnhancedStar black.png" )
         loadSprite("logo", "./assets/Sprite-logo.png")
         
-        loadSprite("grass-tileset", "./assets/Grass_tileset.png", {
+        loadSprite("grass-tileset", "./assets/Grass_Tileset.png", {
             sliceX: 3,
             sliceY: 4,
             anims: {
@@ -52,7 +52,7 @@ export const load = {
             },
           })
 
-          loadSprite("brick-tileset", "./assets/Brick_tileset.png", {
+          loadSprite("brick-tileset", "./assets/Brick_Tileset.png", {
             sliceX: 3,
             sliceY: 4,
             anims: {
@@ -85,7 +85,7 @@ export const load = {
             },
           })
 
-          loadSprite("rock-tileset", "./assets/Cloud_tileset.png", {
+          loadSprite("rock-tileset", "./assets/Cloud_Tileset.png", {
             sliceX: 3,
             sliceY: 4,
             anims: {
