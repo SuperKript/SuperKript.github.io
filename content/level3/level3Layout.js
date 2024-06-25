@@ -1,4 +1,4 @@
-import { generateMappings } from "../generalMappings.js";
+import { generateMappings } from "./generalMappings.js";
 
 export const level3Mappings = generateMappings("rock")
 
